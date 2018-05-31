@@ -1,0 +1,235 @@
+Allow to search contact location by address in Locus and add result into XX1. 
+Home screen widget displaying the upcoming birthday and anniversary dates of your contacts. 
+The widget reads all contacts with birthdays from your Android Adressbook. 
+Therefore you will have to maintain your contacts first (e.g. synchronize with Google). 
+This is a Scrollable Photo Contact Widget 
+It will only work on Launchers which support Scrollable Contacts: Launcher Pro, ADW Launcher, Zeam, Go Launcher, Home+ etc. are all supported Launcher. 
+1) Contact Widget with 2x4 
+(This display contacts in single column) 
+2) Contact Widget with 4x4 
+(This display contacts in 3 columns) 
+Option to display All Contacts, Contact Groups, Favourites etc. 
+Can also send you list as an SMS message. 
+Fixed a force close in SMS sending. 
+-Quick access to contacts, starred contacts, and favorites 
+Send fun, fast and free anonymous messages to cellphones in the United States and Canada. 
+Also you can share the yoga exercise to your friends via Email and SMS. 
+Specify rules based on area code or by contacts (using contact groups). 
+Contact search 
+Recent changes: v2.62 Fixed crash while loading contacts 
+v2.6 Fixed contacts messing up Fixed loading some contacts' pics 
+Upload your photos and contacts or manage, share, email and fax files wherever you go! 
+Maps the addresses in your address book, drawing lines and showing distance to each, highlighting your nearest friend as you move. 
+Bookmarks and Contacts shortcuts also available. 
+(Permissions are required to get Bookmarks and Contacts) 
+Call your favorite contacts in one click, and create nice wallpaper with their photos. 
+Contact Live Wallpaper is a live wallpaper that lets you incorporate the photos of your contacts as a wallpaper. 
+By default, you have to DOULE-CLICK on the photo to interact with your contact 
+1 / You can choose among 15 predesigned backgrounds, and select the contacts to include in the scene, 
+Permissions: read and write calendar are required of course, and also read contacts so guests can be invited to events. 
+making this work required adding the "access contacts" permission to the app 
+READ CONTACT DATA If you have any guests (or attendees) on an event and you have that person in your contacts the app will read information from that contact and show it when viewing an event. 
+The contact picture will show up and then clicked will take you to the default "contact clicked" scenario. 
+Only contacts that are guests to viewed events are read. 
+Sending emails to guests is done when putting email addresses in the "guest" box when creating an event. 
+Texting your friends, family or customers has never been so easy. 
+Forward that funny text to friends or send a message to your customers. 
+Design your own FREE name card, share it with your friends and peers, and store all of your contacts in one place. 
+SMS Signature lets you create SMS signatures/templates in which you can define a SMS text to insert and any number of receivers from your contact list. 
+When a signature is chosen from the list (shown after having clicked the widget) the standard SMS application's create new message activity will be launched and the text and receivers from the signature will automatically be inserted! 
+"Your personal information, Read contact data." 
+Used to get relevant contact info from your call log. 
+To use simply click to select the contact by pressing the button. 
+To text the contact press the button again. 
+Also, any texts received by the contact will be read to you via text to speech. 
+New: The most recent contacts are shown in the list 
+GO Contact Widget makes you contact your favorite friends just directly on home screen of GO Launcher EX. 
+You can start making a phone call, sending a message, viewing their info, sending an e-mail or having a Google talk chat with them by just one click - without opening the contacts app. 
+It also supports one touch action for direct dial, send sms and view contact's profile. 
+Start Google Talk chat (Google Talk name must be set for a contact) 
+Use contact icon image for widget icon. 
+Send Unlimited Free Sms using ur Android Phone 
+Free Sms India is an application which allows you to send free sms to any mobile number in INDIA. 
+Share notes via email 
+(Weekly UPDATES) Next update, will be able to use with DropBox / SMS Sending/ Live FeedBack / More.. 
+Let your phone send text messages even when you can't! 
+Just enter a contact, time and message and then forget about it. 
+No longer force closes upon viewing a sent message. 
+Go to contacts directly from the Homescreen/Launcher. 
+Email jobs to yourself or to friends in your contacts list 
+This version supports Sending Multiple SMS to multiple contacts with a single click 
+Details: Select your contacts with either "Select Contacts" button or type contacts by separating them with comma(","), Enter the number of SMS to be sent. 
+Compose the SMS and click on send button to send to your chosen contacts. 
+Once you have it, you can just send/receive emails directly on your screen. 
+Send/Receive emails 
+(New) Pull down to get new emails. 
+(Fixed) Some crash issues when opening emails, downloading attachment or sending emails. 
+get customers from phone contacts 
+"Who's Calling?" reads the name of the calling party for incoming phone calls or the sender's name of a received message. 
+Certain contacts can be disabled or a custom name can be defined 
+Recent changes: Adding a pop up to explain what the button "call a contact" does in the full version. 
+XX for the company list and find contacts. 
+Search contact (Name, E-Mail, Phone, Fax, Memo) 
+Quick call or send SMS, E-Mail (Long click contact) 
+Since "writing" the text, simply select the contact and click send. 
+On some phones only google contacts are displayed. 
+On some phones the contacts are not displayed. 
+ver 2.0 and feedback button to send email to devs 
+Send them to your friends via SMS. 
+Once the SMS is send it will go back to the joke page. 
+Keep pictures of your loved ones that also work as contact shortcuts. 
+Supported contact methods: 
+call 
+text 
+email 
+view contact page 
+Quick popup contact method (for Android 2+) 
+Build a custom baseball team using friends from your contact book. 
+You can also share the list by SMS. 
+Put your favorite contacts in the home screen, and show or call it with just one touch. 
+dialog send email 
+Call Announcer provides an audible caller id for your Android phone. 
+Utilizing your contact list and Google's Text to Speech (TTS) capabilities, all incoming calls are announced alone or over your current ring tone. 
+Incoming SMS messages can also be announced and Read. 
+Share with friends by email and SMS (short message) 
+Get started creating custom ringtones for everyone in your address book. 
+Set as contact ringtone surpported. 
+XX sending text with Geolocation webserver link 
+Added ability to navigate to a Contact if that Contact has address information. 
+A simple tool for generating and reading QR code supporting event, contact, email, geo, phone, sms, text, url and wifi. 
+Accept text and contact sent via "Share" 
+This app allows you to send and receive anonymous messages (2 way)! 
+Your own number will be completely hidden from whoever you send a message to. 
+This is a "pay as you go" app, it costs credits to send messages (free to receive though) which you can purchase from inside the app (you get one FREE credit to start off). 
+It costs us to send the anonymous messages so it's only fair that you pay a small fee to cover the costs. 
+Will prank call any person on your contact list using a computer voice. 
+birthdays & anniversaries with photos from your addressbook 
+Read and write contact data for birthdays as well as read and write calendar data for events. 
+'Send Email to guests' is bound to 'write calendar data' by Google. 
+Add Post-its to your contacts and have them show up when they call! 
+Click on "Add Note" button and choose a contact from your contact list 
+Also completes your typed words from your contacts names (in Android 2.0+)! 
+You can add some frequently used apps, contacts or bookmarks to this launcher and start those apps, contacts or bookmarks with one click from a circle. 
+Chikka Text Messenger for Android let's you send text messages to the Philippines for FREE and allows Philippine mobile subscribers to reply to you instantly for as low as PHP0.50/sms. 
+We recommend that you register your Philippine Mobile Number when using Chikka Text Messenger so you may continue to receive Chikka messages on your mobile phone in case you go offline. 
+You can sort your contacts in four different ways: To adjust your Contacts List, go to Menu then Contacts then Show Options. 
+mobile phone number. 
+This application enables you to manage your sim contacts. 
+If you have any questions or you want to help SIM Contacts to add support for your language , please email support@needom.com , thanks. 
+Load sim contacts 
+Add new contact 
+Modidy contact 
+Delete contact 
+Call 
+Send message 
+Support searching by phone number 
+Support searching by name 
+One-click button to send translated text by email, SMS text and update Twitter 
+Receive alerts and updates from your support network via text messaging or email. 
+You will receive an expressive and detailed description of each person that you text for the purpose of seeing which of your relationships are thriving and which relationships need work. 
+Moreover, you can view the progression, trends, and patterns of the relationship for each of your contacts, allowing you to see if the relationship is improving over time or if it is falling apart. 
+As you continue to build up the amount of text messages on your phone, the accuracy of the analysis will continue to improve as it has more data to work with. 
+In addition, the algorithm's analyzer will tell you the reliability of the analysis based on the information it has to work with for that given contact. 
+This app is only useful for those who send and receive SMS text messages. 
+Your analysis is kept confidential unless you choose to optionally publish a given contact's result. 
+If the accuracy of a given contact's analysis is medium or higher, you are a young female, the description says that the given contact is stalking you, and that contact is a much older male, we strongly recommend that you seek the advice and counsel of a parent or teacher in this situation because they could possibly be a threat and danger to you. 
+Corrected a crash when attempting to view a contact's trend before it had a chance to finish loading. 
+Crash fix related to contact name 
+Corrected a crash related to empty contact names 
+Corrected a query crash related to contact photo 
+READ CONTACTS: To use your address book to fill orders information. 
+Also, share the search results with friends and save contacts directly into your phone book. 
+Share every search result via Facebook, Twitter or email with friends 
+Call newly discovered telephone numbers directly or send them a text message (currently available in the USA, Austria, Germany and Spain) 
+Telephone numbers, addresses or email addresses can be added directly to your own contacts 
+Find out more about one of your already existing contacts with the feature My contacts 
+Search for people from my contacts and call found telephone numbers directly, the app requires the following authorizations: 
+Your personal information: read contact data 
+Services that cost you money: directly call phone numbers, send SMS messages 
+Small tool to let you delete multiple contacts. 
+Search to identify contacts to delete. 
+Touch to show contact details in app to help you decide which contacts to delete. 
+Search works across all contact information (name, company, address, etc.). 
+May not show or delete Facebook contacts depending on phone. 
+I suppose I should point out that for those reviewers complaining that this app does nothing that the built-in contact app doesn't do, please remember that not all phones have the same built-in apps, and that the contact app is often customized by the phone manufacturers or carriers to add features. 
+View and contact their J.P.Morgan Team 
+Postagram makes it easy to send a printed photo in the mail to yourself, friends or family anywhere in the world. 
+New address book, edit, update and delete your Sincerely contacts with ease. 
+Links directly to your Phone Contacts for selecting customers and suppliers. 
+SMS/Text a group of people quickly and easily. 
+Uses your current contacts and groups. 
+Filter by contact, in/out SMS 
+Better integration with contacts 
+Get notified when contacts are using hellotracks 
+Log shows the contact number/name, exact date time as well as duration of your call making it easy to track all your calls from the application Limitations : 
+Contact permissions are used only to challenge friends via the scoreloop social integration tool set. 
+Contact permissions are used to challenge friends. 
+Find your address book contacts or Facebook friends on Goodreads You can use the basic features of this app without a Goodreads account, but sign in or sign up (you can do this in the app) for the best experience! 
+Why does Goodreads need the READ_CONTACTS permission? 
+You may choose to use your Android Contacts to find which of your family and friends are already on Goodreads. 
+Your contacts will not be read unless you explicitly choose to do this. 
+Number, photo and contact name on it help your decision. 
+Talking Caller ID speaks the caller id of incoming calls based on your phone's stored contacts. 
+Use for all calls, only calls from contacts, only calls from selected contacts, or only calls from non-contacts 
+Make new friends and add their digits ha-ha right to the contact list of your phone. 
+Recent changes: Version 2.5 of Ringdroid has user interface improvements including the ability to assign a ringtone directly to a contact and to record new audio on devices running Android system version 2.3.x ('gingerbread'). 
+The App uses your contact data so you can easily add people to your Chase QuickPay(SM) contact list. 
+Call Informer is a Caller ID enhancement that shows additional contact details on the Android incoming and (optionally) outgoing Caller ID screens. 
+These apps look for the information on the Internet, while Call Informer shows you the information you have already saved in your contacts. 
+The extra information is read from your address book. 
+Call Informer does not try to find this information--you need to manually update your contacts for the details to show on your call screens. 
+Optionally tap caller details to open Contact entry (new) 
+Fixed Contact Incomplete message not always displaying 
+PhoneToGo lets you call any contact in your phonebook via a calling service like Skype To Go(TM) or other calling cards. 
+You can do this by selecting your existing contact information from your phone's address book, or by entering the info manually. 
+This way, you can have share info with business contacts, or rather have a personal card to send out. 
+You can also beam your card directly to other Cardcloud users in the vicinity, and store contact information on your phone's address book. 
+Cardcloud allows you to remember more about your new contacts. 
+Contacts from address book 
+Invoices can be emailed, sent by sms, or printed 
+Generate customer statements and send by email 
+Get customers from phone contacts Printing 
+Choose an email template right before sending the invoice 
+Send invoices by email or sms, both use templates that can be customized 
+Cc or blind copy yourself when sending invoices by email 
+Connect with friends on Facebook, Twitter, MySpace or your address book, discover great new games, and follow your friends' progress! 
+Send as email attachment. 
+This application do not restore contacts! 
+Contact data will then be synced back to your device. 
+Send the file to your email address. 
+Send an SMS to this phone and this Phone will call you back at the number that you specified in the SMS. 
+Save a location to your contacts in order to print emails from the native Android Email app 
+Sharing it via email or Facebook! 
+Allows quick access to call or send sms to contacts/numbers you have contacted recently/frequently. 
+It auto select your contacts/numbers depending on the frequency and age of calls and sms. 
+View your recent calls, voice and text messages, and pages. 
+Share Tips via Twitter, Facebook, LinkedIn, and email! 
+Share via SMS(mass). 
+Share recipes via email or Facebook. 
+Set as wallpaper, set as avatar for the contact! 
+Share via SMS(mass) 
+Set Contact Icons. 
+Share via Email, SMS, Facebook, twitter and so on 
+Share via Email, SMS, Facebook, twitter and so on 
+Share via SMS(mass) 
+This app have a lot of sms 
+Share via SMS(mass) 
+'Your personal information', so Ã–ffi can route you to your contacts or location from a calendar event, store a connection in your calendar or e-mail it to your friends 
+This app gives you the top 101 romantic, fun, flirty & cute love messages. 
+Share via SMS(mass). 
+Share via SMS(mass). 
+No more frantic searching for confirmation emails in your inbox or worse yet hunting down that pesky manila folder. 
+When you receive a confirmation email from anywhere you book, simply forward it to plans@tripit.#com. 
+You can easily share trip plans with family or colleagues directly, or let Facebook and LinkedIn contacts know when and where you're headed. 
+Fake incoming / outgoing text messages to get you out of awkward situations or to help you find quick excuses! 
+1) Fake incoming / outgoing text messages 
+The fake message will have an absolutely 100% genuine look & feel, including the status bar notification which when clicked, takes you right to the message itself! 
+Add a backdated sent text message and fake your way out of it! 
+Schedule numerous text messages to get heads turn. 
+E-mail your medical team 
+Share via SMS(mass). 
+If you have an iPhone running iOS 4.0 or later, you can also SMS these weight loss tips! 
+Share via SMS(mass) 
+Share via SMS(mass) 
+This application can send SMS or email with your coordinates and link to Google Maps. 
+2.01: Remove contact button. 

@@ -1,0 +1,235 @@
+Allow to search contact locat by address in Locu and add result into XX1. 
+Home screen widget display the upcom birthday and anniversari date of your contacts. 
+The widget read all contact with birthday from your Android Adressbook. 
+Therefor you will have to maintain your contact first (e.g. synchron with Google). 
+Thi is a Scrollabl Photo Contact Widget 
+It will onli work on Launcher which support Scrollabl Contacts: Launcher Pro, ADW Launcher, Zeam, Go Launcher, Home+ etc. are all support Launcher. 
+1) Contact Widget with 2x4 
+(Thi display contact in singl column) 
+2) Contact Widget with 4x4 
+(Thi display contact in 3 columns) 
+Option to display All Contacts, Contact Groups, Favourit etc. 
+Can also send you list as an SM message. 
+Fix a forc close in SM sending. 
+-Quick access to contacts, star contacts, and favorit 
+Send fun, fast and free anonym messag to cellphon in the Unit State and Canada. 
+Also you can share the yoga exercis to your friend via Email and SMS. 
+Specifi rule base on area code or by contact (use contact groups). 
+Contact search 
+Recent changes: v2.62 Fix crash while load contact 
+v2.6 Fix contact mess up Fix load some contacts' pic 
+Upload your photo and contact or manage, share, email and fax file wherev you go! 
+Map the address in your address book, draw line and show distanc to each, highlight your nearest friend as you move. 
+Bookmark and Contact shortcut also available. 
+(Permiss are requir to get Bookmark and Contacts) 
+Call your favorit contact in one click, and creat nice wallpap with their photos. 
+Contact Live Wallpap is a live wallpap that let you incorpor the photo of your contact as a wallpaper. 
+By default, you have to DOULE-CLICK on the photo to interact with your contact 
+1 / You can choos among 15 predesign backgrounds, and select the contact to includ in the scene, 
+Permissions: read and write calendar are requir of course, and also read contact so guest can be invit to events. 
+make thi work requir ad the "access contacts" permiss to the app 
+READ CONTACT DATA If you have ani guest (or attendees) on an event and you have that person in your contact the app will read inform from that contact and show it when view an event. 
+The contact pictur will show up and then click will take you to the default "contact clicked" scenario. 
+Onli contact that are guest to view event are read. 
+Send email to guest is done when put email address in the "guest" box when creat an event. 
+Text your friends, famili or custom ha never been so easy. 
+Forward that funni text to friend or send a messag to your customers. 
+Design your own FREE name card, share it with your friend and peers, and store all of your contact in one place. 
+SM Signatur let you creat SM signatures/templ in which you can defin a SM text to insert and ani number of receiv from your contact list. 
+When a signatur is chosen from the list (shown after have click the widget) the standard SM application' creat new messag activ will be launch and the text and receiv from the signatur will automat be inserted! 
+"Your person information, Read contact data." 
+Use to get relev contact info from your call log. 
+To use simpli click to select the contact by press the button. 
+To text the contact press the button again. 
+Also, ani text receiv by the contact will be read to you via text to speech. 
+New: The most recent contact are shown in the list 
+GO Contact Widget make you contact your favorit friend just directli on home screen of GO Launcher EX. 
+You can start make a phone call, send a message, view their info, send an e-mail or have a Googl talk chat with them by just one click - without open the contact app. 
+It also support one touch action for direct dial, send sm and view contact' profile. 
+Start Googl Talk chat (Googl Talk name must be set for a contact) 
+Use contact icon imag for widget icon. 
+Send Unlimit Free Sm use ur Android Phone 
+Free Sm India is an applic which allow you to send free sm to ani mobil number in INDIA. 
+Share note via email 
+(Weekli UPDATES) Next update, will be abl to use with DropBox / SM Sending/ Live FeedBack / More.. 
+Let your phone send text messag even when you can't! 
+Just enter a contact, time and messag and then forget about it. 
+No longer forc close upon view a sent message. 
+Go to contact directli from the Homescreen/Launcher. 
+Email job to yourself or to friend in your contact list 
+Thi version support Send Multipl SM to multipl contact with a singl click 
+Details: Select your contact with either "Select Contacts" button or type contact by separ them with comma(","), Enter the number of SM to be sent. 
+Compos the SM and click on send button to send to your chosen contacts. 
+Onc you have it, you can just send/rec email directli on your screen. 
+Send/Rec email 
+(New) Pull down to get new emails. 
+(Fixed) Some crash issu when open emails, download attach or send emails. 
+get custom from phone contact 
+"Who' Calling?" read the name of the call parti for incom phone call or the sender' name of a receiv message. 
+Certain contact can be disabl or a custom name can be defin 
+Recent changes: Ad a pop up to explain what the button "call a contact" doe in the full version. 
+XX for the compani list and find contacts. 
+Search contact (Name, E-Mail, Phone, Fax, Memo) 
+Quick call or send SMS, E-Mail (Long click contact) 
+Sinc "writing" the text, simpli select the contact and click send. 
+On some phone onli googl contact are displayed. 
+On some phone the contact are not displayed. 
+ver 2.0 and feedback button to send email to dev 
+Send them to your friend via SMS. 
+Onc the SM is send it will go back to the joke page. 
+Keep pictur of your love one that also work as contact shortcuts. 
+Support contact methods: 
+call 
+text 
+email 
+view contact page 
+Quick popup contact method (for Android 2+) 
+Build a custom basebal team use friend from your contact book. 
+You can also share the list by SMS. 
+Put your favorit contact in the home screen, and show or call it with just one touch. 
+dialog send email 
+Call Announc provid an audibl caller id for your Android phone. 
+Util your contact list and Google' Text to Speech (TTS) capabilities, all incom call are announc alon or over your current ring tone. 
+Incom SM messag can also be announc and Read. 
+Share with friend by email and SM (short message) 
+Get start creat custom rington for everyon in your address book. 
+Set as contact rington surpported. 
+XX send text with Geoloc webserv link 
+Ad abil to navig to a Contact if that Contact ha address information. 
+A simpl tool for gener and read QR code support event, contact, email, geo, phone, sms, text, url and wifi. 
+Accept text and contact sent via "Share" 
+Thi app allow you to send and receiv anonym messag (2 way)! 
+Your own number will be complet hidden from whoever you send a messag to. 
+Thi is a "pay as you go" app, it cost credit to send messag (free to receiv though) which you can purchas from insid the app (you get one FREE credit to start off). 
+It cost us to send the anonym messag so it' onli fair that you pay a small fee to cover the costs. 
+Will prank call ani person on your contact list use a comput voice. 
+birthday & anniversari with photo from your addressbook 
+Read and write contact data for birthday as well as read and write calendar data for events. 
+'Send Email to guests' is bound to 'write calendar data' by Google. 
+Add Post-it to your contact and have them show up when they call! 
+Click on "Add Note" button and choos a contact from your contact list 
+Also complet your type word from your contact name (in Android 2.0+)! 
+You can add some frequent use apps, contact or bookmark to thi launcher and start those apps, contact or bookmark with one click from a circle. 
+Chikka Text Messeng for Android let' you send text messag to the Philippin for FREE and allow Philippin mobil subscrib to repli to you instantli for as low as PHP0.50/sms. 
+We recommend that you regist your Philippin Mobil Number when use Chikka Text Messeng so you may continu to receiv Chikka messag on your mobil phone in case you go offline. 
+You can sort your contact in four differ ways: To adjust your Contact List, go to Menu then Contact then Show Options. 
+mobil phone number. 
+Thi applic enabl you to manag your sim contacts. 
+If you have ani question or you want to help SIM Contact to add support for your languag , pleas email support@needom.com , thanks. 
+Load sim contact 
+Add new contact 
+Modidi contact 
+Delet contact 
+Call 
+Send messag 
+Support search by phone number 
+Support search by name 
+One-click button to send translat text by email, SM text and updat Twitter 
+Receiv alert and updat from your support network via text messag or email. 
+You will receiv an express and detail descript of each person that you text for the purpos of see which of your relationship are thrive and which relationship need work. 
+Moreover, you can view the progression, trends, and pattern of the relationship for each of your contacts, allow you to see if the relationship is improv over time or if it is fall apart. 
+As you continu to build up the amount of text messag on your phone, the accuraci of the analysi will continu to improv as it ha more data to work with. 
+In addition, the algorithm' analyz will tell you the reliabl of the analysi base on the inform it ha to work with for that given contact. 
+Thi app is onli use for those who send and receiv SM text messages. 
+Your analysi is kept confidenti unless you choos to option publish a given contact' result. 
+If the accuraci of a given contact' analysi is medium or higher, you are a young female, the descript say that the given contact is stalk you, and that contact is a much older male, we strongli recommend that you seek the advic and counsel of a parent or teacher in thi situat becaus they could possibl be a threat and danger to you. 
+Correct a crash when attempt to view a contact' trend befor it had a chanc to finish loading. 
+Crash fix relat to contact name 
+Correct a crash relat to empti contact name 
+Correct a queri crash relat to contact photo 
+READ CONTACTS: To use your address book to fill order information. 
+Also, share the search result with friend and save contact directli into your phone book. 
+Share everi search result via Facebook, Twitter or email with friend 
+Call newli discov telephon number directli or send them a text messag (current avail in the USA, Austria, Germani and Spain) 
+Telephon numbers, address or email address can be ad directli to your own contact 
+Find out more about one of your alreadi exist contact with the featur My contact 
+Search for peopl from my contact and call found telephon number directly, the app requir the follow authorizations: 
+Your person information: read contact data 
+Servic that cost you money: directli call phone numbers, send SM messag 
+Small tool to let you delet multipl contacts. 
+Search to identifi contact to delete. 
+Touch to show contact detail in app to help you decid which contact to delete. 
+Search work across all contact inform (name, company, address, etc.). 
+May not show or delet Facebook contact depend on phone. 
+I suppos I should point out that for those review complain that thi app doe noth that the built-in contact app doesn't do, pleas rememb that not all phone have the same built-in apps, and that the contact app is often custom by the phone manufactur or carrier to add features. 
+View and contact their J.P.Morgan Team 
+Postagram make it easi to send a print photo in the mail to yourself, friend or famili anywher in the world. 
+New address book, edit, updat and delet your Sincer contact with ease. 
+Link directli to your Phone Contact for select custom and suppliers. 
+SMS/Text a group of peopl quickli and easily. 
+Use your current contact and groups. 
+Filter by contact, in/out SM 
+Better integr with contact 
+Get notifi when contact are use hellotrack 
+Log show the contact number/name, exact date time as well as durat of your call make it easi to track all your call from the applic Limit : 
+Contact permiss are use onli to challeng friend via the scoreloop social integr tool set. 
+Contact permiss are use to challeng friends. 
+Find your address book contact or Facebook friend on Goodread You can use the basic featur of thi app without a Goodread account, but sign in or sign up (you can do thi in the app) for the best experience! 
+Whi doe Goodread need the READ_CONTACT permission? 
+You may choos to use your Android Contact to find which of your famili and friend are alreadi on Goodreads. 
+Your contact will not be read unless you explicitli choos to do this. 
+Number, photo and contact name on it help your decision. 
+Talk Caller ID speak the caller id of incom call base on your phone' store contacts. 
+Use for all calls, onli call from contacts, onli call from select contacts, or onli call from non-contact 
+Make new friend and add their digit ha-ha right to the contact list of your phone. 
+Recent changes: Version 2.5 of Ringdroid ha user interfac improv includ the abil to assign a rington directli to a contact and to record new audio on devic run Android system version 2.3.x ('gingerbread'). 
+The App use your contact data so you can easili add peopl to your Chase QuickPay(SM) contact list. 
+Call Inform is a Caller ID enhanc that show addit contact detail on the Android incom and (optionally) outgo Caller ID screens. 
+These app look for the inform on the Internet, while Call Inform show you the inform you have alreadi save in your contacts. 
+The extra inform is read from your address book. 
+Call Inform doe not tri to find thi information--y need to manual updat your contact for the detail to show on your call screens. 
+Option tap caller detail to open Contact entri (new) 
+Fix Contact Incomplet messag not alway display 
+PhoneToGo let you call ani contact in your phonebook via a call servic like Skype To Go(TM) or other call cards. 
+You can do thi by select your exist contact inform from your phone' address book, or by enter the info manually. 
+Thi way, you can have share info with busi contacts, or rather have a person card to send out. 
+You can also beam your card directli to other Cardcloud user in the vicinity, and store contact inform on your phone' address book. 
+Cardcloud allow you to rememb more about your new contacts. 
+Contact from address book 
+Invoic can be emailed, sent by sms, or print 
+Gener custom statement and send by email 
+Get custom from phone contact Print 
+Choos an email templat right befor send the invoic 
+Send invoic by email or sms, both use templat that can be custom 
+Cc or blind copi yourself when send invoic by email 
+Connect with friend on Facebook, Twitter, MySpac or your address book, discov great new games, and follow your friends' progress! 
+Send as email attachment. 
+Thi applic do not restor contacts! 
+Contact data will then be sync back to your device. 
+Send the file to your email address. 
+Send an SM to thi phone and thi Phone will call you back at the number that you specifi in the SMS. 
+Save a locat to your contact in order to print email from the nativ Android Email app 
+Share it via email or Facebook! 
+Allow quick access to call or send sm to contacts/numb you have contact recently/frequently. 
+It auto select your contacts/numb depend on the frequenc and age of call and sms. 
+View your recent calls, voic and text messages, and pages. 
+Share Tip via Twitter, Facebook, LinkedIn, and email! 
+Share via SMS(mass). 
+Share recip via email or Facebook. 
+Set as wallpaper, set as avatar for the contact! 
+Share via SMS(mass) 
+Set Contact Icons. 
+Share via Email, SMS, Facebook, twitter and so on 
+Share via Email, SMS, Facebook, twitter and so on 
+Share via SMS(mass) 
+Thi app have a lot of sm 
+Share via SMS(mass) 
+'Your person information', so Ã–ffi can rout you to your contact or locat from a calendar event, store a connect in your calendar or e-mail it to your friend 
+Thi app give you the top 101 romantic, fun, flirti & cute love messages. 
+Share via SMS(mass). 
+Share via SMS(mass). 
+No more frantic search for confirm email in your inbox or wors yet hunt down that peski manila folder. 
+When you receiv a confirm email from anywher you book, simpli forward it to plans@tripit.#com. 
+You can easili share trip plan with famili or colleagu directly, or let Facebook and LinkedIn contact know when and where you'r headed. 
+Fake incom / outgo text messag to get you out of awkward situat or to help you find quick excuses! 
+1) Fake incom / outgo text messag 
+The fake messag will have an absolut 100% genuin look & feel, includ the statu bar notif which when clicked, take you right to the messag itself! 
+Add a backdat sent text messag and fake your way out of it! 
+Schedul numer text messag to get head turn. 
+E-mail your medic team 
+Share via SMS(mass). 
+If you have an iPhon run iO 4.0 or later, you can also SM these weight loss tips! 
+Share via SMS(mass) 
+Share via SMS(mass) 
+Thi applic can send SM or email with your coordin and link to Googl Maps. 
+2.01: Remov contact button. 

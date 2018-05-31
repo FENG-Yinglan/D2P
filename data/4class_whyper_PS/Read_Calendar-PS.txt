@@ -1,0 +1,283 @@
+A Calendar Widget for your home screen: 
+show as mani event as possibl 
+A simpl and good look calendar widget. 
+Display anyth from one to six upcom events. 
+Work with the sync provid on your phone and therebi support Googl Calendar, Exchange, Facebook etc. 
+The product enabl user to access calendar creat by Googl Calendar, or by our own product 
+The calendar can be view individu or in combin by gener an integr calendar. 
+Checkmark Calendar provid Day, Week and Month view formats. 
+User can add/edit Googl Calendar event or Checkmark To Do List Manag Task/Checklist directli from Checkmark Calendar. 
+Free version allow user to view event in previou month, current month and next month. 
+Nativ Googl calendar color is inherit and can also be overridden. 
+Build in search function to find your tasks/ev veri easy. 
+Calendar can be view in differ style base on calendar type(Countri Holidays, religi Holidays, etc). 
+Build in Moon Phase Calendar to display moon phase of ani day graphically(Pro version) Simple, ergonom design and intuit navigation. 
+Fix a event display issu in Month view. 
+GO Calendar widget bring the calendar and the agenda to your home screen. 
+It wa design to make it more simpl and faster to work with your calendar. 
+Two differ view (month and agenda) give you a good overview to your upcom events. 
+It also support show Chines Lunar and Moon phase. 
+Compar to the tradit calendar widget, it support switch between month by flip like a real calendar. 
+View month 
+View agenda 
+Add agenda 
+(Improve) The 43 Style can show the Schedul in the 4.0 ICS. 
+(Improve)Th schedul list can show the task in 30 days. 
+IC BOT 2 import vCalendar file into the Android Calendar. 
+See your whole calendar at a glance. 
+Touch Calendar work with Googl Calendar and ani other calendar your phone supports, and the app featur calendar search and custom repeat event 
+home screen widget (buy the full version) Zoom and scroll your calendar with complet freedom 
+Note: Text colour for event come from the calendar colour. 
+Set up differ colour for event in Googl Calendar and they'll appear in Touch Calendar automatically. 
+Permissions: read and write calendar are requir of course, and also read contact so guest can be invit to events. 
+Calendar Droid is a calendar app that let you see your sync calendar on your phone. 
+Work with all synchron calendar like Googl Calendar, Exchange, Facebook, etc. 
+READ CALENDAR EVENT Thi should be obvious. 
+ADD OR MODIFi CALENDAR EVENT AND SEND EMAIL TO GUEST 
+Calendar Droid need to chang your calendar events. 
+Add/edit event window with IC style Week/Day View horizont swype/scrol rewrit Attempt at speed improv Date Spinner when select date Delet event from "long press menu" Agenda load more event by press footer ton now o 
+In addit to an electron show guide, thi app connect you with exhibitor via an automat match component, provid a searchabl databas of exhibitors, session and speakers, let you creat an appoint agenda and receiv show organ updates. 
+Appoint Schedul Attende can send and manag appoint with exhibitors. 
+Agenda Builder A complet itinerari of session and exhibitor appoint current schedul for the attendee. 
+The disc enabl you to plan accordingli your medic appointments, flights, babi shower and so on. 
+Calendar integration, creat privat notif within your mobil calendar (e.g. 
+That way when ever you'll set an appoint in your calendar you'll know what pregnanc week you'r on. 
+Thi app is to display the calendar on your home screen. 
+day, week, month & birthday view 
+use Android' nativ calendar backend and synchron 
+switch between view with a horizont swipe (open the day or week you start the swipe gestur on) or doubletap for day view 
+longpress to add event 
+longpress on minimonth to go to today or jump to date 
+Read and write contact data for birthday as well as read and write calendar data for events. 
+'Send Email to guests' is bound to 'write calendar data' by Google. 
+no more fall back to default calendar for edit 
+agenda view 
+calendar import/export to Facebook, Twitter, NFC, etc. 
+other calendar system support (Bah', Chinese, Ethiopian, Hebrew, Indian, Iranian, Islamic, Thai, Zoroastrian) 
+Recent changes: Fix all day event creation bug Add left/right swipe action to navig between event of one day Better recurr handl 
+Add all your Year2011 and 2012 Nation Holiday to your Android Calendar. 
+You can instal the app, "Add" the holiday date to the calendar, then uninstal the app, the Calendar entri remain, save your memory. 
+CallTrack log your phone activ to your Googl Calendar. 
+You can select the type of call to log (incoming, outgoing, and missed) and the calendar to log them in. 
+You can also dump your current call log to your calendar. 
+Creat poll for schedul event 
+View your calendar dure particip 
+Dure participation, the app show you what event you have in your phone' calendar for the correspond day 
+In the settings, you can choos whether the calendar name should be shown 
+DATA PROTECT STATEMENT: The data that is display from your phone' calendar stay on your phone and is not sent anywhere. 
+Support for the calendar access in Android 4.0 
+Use the Blik Calendar Widget and you'll have a great companion to your Calendar app. 
+Blik read your calendar and automat pick a pictur for each event that describ it without words. 
+The pictur is shown, along with the start time and an import word from the event text so that you can see what' come up on your calendar. 
+You end up with a quick visual guid to your upcom events. 
+Your calendar ha never been easier to "read". 
+The Pro version unlock anoth 300 keyword rule so that your calendar event are match up to pictur even better. 
+You can creat your own keyword rule for singl calendar event in the free/trial version and in the Pro version you can creat your own keyword rule that appli to all your calendar events. 
+Facebook event may be display with incorrect start times. 
+Facebook declin event will still show up. 
+If your phone is show event off by an hour, you may need to power it down and reboot for it to pick up the time chang from your cell provider. 
+If you are have problem with your calendar event not syncing, go to http://android.joeprogrammer.com/blikhelp/synchelp.html for inform and instruct on how to correct the problem. 
+(QIF, OFX) 3 widget Budget Recur and split transact support Integr with MyBackup Pro Explan of the variou permiss and whi they are needed: Permission: Your person information, add or modifi calendar event and send email to guests, read calendar events. 
+Purpose: Use for creat recur bill and followup remind in the phone' calendar. 
+Pregnanc calendar is an applic that,not onli allows, after enter date of last period menstrual,to calcul the pesum (or estimated) date of birth; but, offer prospect to show,week to week,al appoint which must to undergo everi mother,ad a rule,for a correct and healthi pregnancy. 
+Thi widget calendar is analog of standard calendar widget, with updat look to match style of "SiMi Clock" widget (all credit are go to it author) Support a lot of configur options: 
+Possibl to choos which calendar to show 
+How to add: On phone home screen press "menu", then "add", click on "widgets" and choos "Simpl Calendar Widget" from the list (If you can't press add button for some reason, workaround is to press and hold ani space on the home screen and a menu pop up) Tip: For peopl who want to see weather forecast on the screen: Just set it up in set of desktop version of Googl calendar. 
+For step just search for "Weather forecast in your calendar" in Google. 
+Also you can includ more interest calendar like holidays, birthday date or sport news. 
+Permissions: READ CALENDAR access to the calendar inform 
+Fix widget stop receiv chang of calendar after some time 
+Calendar updat [Job Setting] add record to the calendar (it' recommend to open a separ calendar for 'Mi Work Clock'). 
+Quick day, week & month inform 
+Schedul of broadcast from the websit livetv.ru Thi is widget with filter set of sport and possibl add event to calendar. 
+Add it to your calendar in seconds. 
+It is a mobil stake directori allow you to download membership and calendar event to your device. 
+Map, navigate, email, and call member View stake and ward calendar. 
+Import ward and stake calendar event to your phone' calendar Creat custom group of individu that your contact frequent You are like awar that the church ha recent publish LD Tool with much of the same function as Stake Central. 
+The church ha plan to continu to add featur like calendar event and groups. 
+Recent changes: Version 2.17 Fix bug where event without a resourc assign are not display Version 2.16 Fix sever forc close issu with Honeycomb Fix forc close when attempt to view the calendar. 
+If you are run 2.15 and can view the calendar and are not see ani forc close issues, it is not necessari to upgrad to thi version. 
+Version 2.15 Support LDS.org Calendar v2.0 Fix a problem where the calendar event list is empti after data retriev after LDS.org calendar updat 
+Easili find shows, add to your calendar, buy tickets, share with friend and get direct in one app 
+add event to your calendar in one click; no need to manual input everi detail yourself. 
+add venu to your favorit to quickli check their upcom events. 
+Edit calendar color 
+Custom first day of week (for week and month view) PC or Mac. 
+MultiDay event show as a banner in week and month view 
+Week number display in week and month view 
+Visual padlock indic for subscrib read/onli calendar Desktop sync requir purchas of The Miss Sync for Android 
+Select default calendar for newli creat event 
+Fliq Calendar sync with Microsoft Outlook and Appl iCal and includ numer enhanc over the builtin Calendar application: 
+(Continu to use the builtin Calendar to sync with Google.) 
+Main features: Sync with Googl calendar; Password protection; Home screen widget(9 sizes, 10 colors); 
+Calendar 
+Anniversari manag 
+Todo list that you can manag todo, shop list 
+Calendar(Monthly/Weekly) widget 
+Recent changes: Ver1.97 Support the share calendar with other people; Fix the bug that copy, past doesn't work on Android 4.0 
+It can play a song and read the time, date, weather forecast, calendar entries, today' news, and a custom messag of your choice. 
+Multipl alarm and calendar read avail with pro key 
+Thi app enabl you to see your event with text. 
+Features: Month, Week, Day and Agenda views. 
+Recent changes: Fix specif forc close when open box score Fix forc close when view live blog or tweet on HTC devic Fix forc close when brows the calendar or video for UEFACL Fix a bug where UEFACL and Seri A game were not show up in My Score In the widget, game with fave team are move to the top of the list 
+You should download alway (if reinstalling) the LITE version NEW PERMISSION: READ/WRIT calendar so you can get remind for Event section (PRO 
+When your nearest event in your calendar is (nonrecur events). cl 
+Our groundbreak beOrgan Calendar and Task let you easili arrang and rearrang your day use an intuit agenda view. 
+full sync with Googl Calendar (TM) and Googl Tasks. 
+No ad beOrgan provides: full sync with Googl task 
+add item directli on the select day ove task to other day with just 2 taps. 
+multiple, color code calendar event and todo on one, easytoview list: 
+Altern time and date format arrang and rearrang your day made simpl and intuitive. 
+It support GPX file import, GPX/KML/googl map, embed HTML file export, AutoLap for each mile/kilometer, ManualLap, Audio remind for auto lap time reminding, Vibrat for auto lap, Share to friends, Open street view for current / record location, Compass ,Duration, distance, pace and calori indication, Locat geocod for each lap, Power save mode, Elevation, Sync with Googl Calendar, Weather inform (on KML/HTML) ,Rout Tracker log your rout everi second after you start your activ if GP signal is available. 
+Feature: pace and calori indication, Locat geocod for each lap, Power save mode, Elevation, Sync with Googl Calendar, Weather inform (on KML/HTML) ,Rout Tracker log your rout everi second after you start your activ if GP signal is available. 
+Quickli access Group Fit class schedules. 
+Check on upcom event and activities. 
+Calendar: Onc you'v found your class, add it to your person calendar. 
+You'l find the season schedul with info on how to catch the games, up to date roster information, and more. 
+Caro is a person planner and diari which support monthli and weekli plan base on full of calendar functionality. 
+And also support to synchron with Googl web calendar. 
+Daili schedul 
+Googl calendar synchron 
+[Major feature] Manag of monthli plan 
+AA Task is easytous but, power schedul & memo app. 
+Sort by DDay(Anniversary), Set alarm 
+Set repeat schedul 
+Calendar widget 
+Sync with Googl calendar 
+Features: Add/Edit/Delet schedules, 
+Busi Calendar is a complet calendar applic that is synchronis with your Googl calendar 
+month, agenda, day and event view 
+quickli fade in/out calendar use the favorit bar 
+configur widget in differ size for month, week, agenda and day view 
+easi switch between timelin bar and event titl in month view 
+intuit new handl option: just move your finger over some day of interest in month view to open them in the multiday view 
+quick day overview when ad a new event 
+to add a recurr event that take place everi other week on Tuesday and Thursday 
+option to select individu calendar for each widget 
+own Busi Calendar remind Pleas do not move the applic to the sd card if you want to use the widget gener limit of the Android oper system) 
+the color of the calendar also is show up now in the event input mask 
+you can't delet or edit event ani more if you don't have write permiss for them 
+a new option 'Copi Event' ha been ad in the week view 
+Recent changes: new option to specifi which Busi Calendar widget should be avail when ad a new widget to your home screen 
+It' veri easi to keep track of your territories, all your return visits, your servic time for the month and plan your day or week of door to door ministry. 
+Add time for return visit to Googl calendar 
+Keep track of your servic time for each month and year, and send the report by SM or email 
+Widget for month report 
+Quickli see what on TV, manag your favorit channel and set up remind for your favorit shows. nt 
+v2.0.5 (12/12/11) bugfix for seri remind in android calendar v2.0.4 (11/18/11) mani bug fix inclus of custom feedback form on 'About' screen v2.0.3 (10/13/11) upgrad fix 
+You are shift worker or someon have to work with chang time and it suck up everi day in the calendar chang individu 
+Thi will help your work hour quickly, simpli and clearli in your calendar (GoogleAccount/ExchangeAccount) to enter. 
+Put your work hour just as a categori in which you can then enter comfort in the week or month view. 
+Add or chang in week or month view Agenda Overview: monthli / annual summari of work hour 
+Power enough to handl larg checklist with complex hierarch task structur Flexibl to enabl a wide rang of todo list need 
+In the future, the icon will be use for other warn or remind like backup reminder, etc. 
+Use thi app to work on your project on the go or schedul your daili task 
+Basic support of project calendar 
+Get notif when task start or end 
+Share calendar 
+the same calendar can be use by differ project 
+Easi to use calendar applic that synchron data with Googl Calendar. 
+Ad event by voic (voic recognition), 
+Ad new event use Voic Recognit 
+Everi x days/months/year event repetit 
+Ad event from histori log & address book 
+Month change: swipe left or right over the month name in Month View 
+Day View list of events: doubl click desir day 
+Calendar import of timet connect Ticket functions: 
+MyLink Advanc provid full synchron of all Microsoft Outlook email (inbox, sent, outbox and drafts), contacts, calendar, task and note with all Android phone via USB. 
+Quick Agenda is a customiz agenda view that display Google/Touchdown event and task from variou applic (full list below) and Contact Birthdays. 
+Look like there is a bug with sharing/choos touchdown tasks, I will fix thi soon 
+It also ha a widget which allow you to choos an event to display alongsid upcom events. 
+If you are look for a busi calendar widget to display mani event pleas tri Agenda Widget, convers 
+If you want a sleek, compact, customiz widget to show a few upcom event (and a chosen event) tri Quick Agenda 
+an quick load agenda view that combin calendar and task from variou data sourc 
+swipe action in quick agenda view an IC (iCal) 
+Featur list: a widget that can show one upcom event/task, either the next event or and event chosen by you receiver/sender. 
+Support for: Googl calendar 
+Got To Do task 
+Due Today task 
+Permissions: GP is use to display nearbi upcom events; Contact and Account are use on certain phone to option sync your Last.fm friend with your contacts; 
+view your event on googl calendar 8. 
+repeat remind enable, set remind onetime/daily/weekly/monthly... 
+0.9.8 Add voic input on quick add and task editor 
+IC fix: reminder, scrollabl widget Set for the start day of week in calendar 
+Calendar qr code and save to your calendar 
+From your exist calendar event (With your permiss to read) or creat a new calendar event without save it and gener QR code. 
+add to calendar; 
+add event to calendar Peopl lookup by name or revers lookup by phone number or address; 
+Poynt ask for permiss to access your calendar, contact and locat in order to deliv an integr ªxperience: Calendar You can have Poynt add movi showtimes, dinner reserv and event to one of your calendars. ch b 
+The onli time we access your contact or calendar entri is when you ask us to for the reason list above. 
+Appoint management: Add medic (Vet visits, vaccinations, surgeries, flea control etc.) and regular appoint (grooming, training, sitter, walker etc.). 
+Remind can be schedul up. 
+Recent changes: 1.26 fix minor bug in remind 1.23, 24, 25 ad custom appoint repeat period fix appoint list order now show date for the appoint and daili log in list view ad new appoint type board view mode for appoint screen 1.141.22 new featur Weight chart, new log ad cost field to appoint Ad appoint type "Custom" Simplifi appoint flow Improv help eMail profil iPhon version 
+Automat backup SMS, MM and call log entri use a separ label in Gmail / Googl Calendar. 
+use the 3x1 to make a 4x1>4x4) Highli customiz homescreen widget which allow you to show Calendar from: Googl includ Activesync Motorola Droid corpor calendar application(now obsolete) Touchdown exchang Check http://www.androidagendawidget.com/develop for updat 
+You can also chang the click action for event to open applic such as: Jort Calendar Pad Scroll is avail with ADW Launcher, Launcher Pro, Go Launcher, Xperia Arv launcher and others. 
+Recent changes: 2.0.0BETA Fix variou IC bug (calendar colors, calendar selection) Updat separ calendars/task code Chang row color select code 1.6.19 Some Ice cream Sandwich fix Fix overdu task Fix anoth crash in set screen 1.6.18 Some Ice cream Sandwich fix Fix set crash Enhanc to grid mode (highlight day with events, quick action popup on click) 1.6.18SNAPSHOT Some Ice cream Sandwich fix (recur events) Fix time display New calendar picker 
+Schedul St. is a day planner applic for Android. 
+The integr of the TODO and Note memo allow linkag of the schedul plan with it correspond information. 
+Sinc the system incorpor synchron with Googl calendar, you can continu to use the schedul you have been previous use without ani effort. 
+[Functions] Day Planner Googl Calendar Sync Multipl calendar manag Todo list Googl Task Sync Text/Photo/Voic memo Mail memo Thi free version ha the follow limitations. 
+Calendar are display in a monthli or weelki view the display will rotat automat if you turn your devic sideways. 
+You can see in one glanc the import schedul that are color red and also the schedul that have alreadi finished. 
+Accord to your style, you can set the begin day of the week, import public holiday event and add our own holiday events. 
+When you manag a todo list, you can view import schedul in red or rearrang the order of item in the list. 
+Schedul and todo data can be import from or export to a CSV file. 
+The app ha mani featur such as synchron with Googl calendar and support a wide varieti of widgets. 
+Recent changes: Ver 1.3.8 (releas JanuaryÇ20, 2012) If you regist an event in differ timezones, can be convert at startup. t 
+The issu is fix for that at a particular time zone, Googl Calendar event are display with one day shift back and forth on monthli view screen. 
+Appoint manag Add medic (doctor visits, vaccinations, surgeries, etc.) and regular appoint (grooming, exercis etc.). 
+Remind can be schedul up. 
+Athlet Check the latest news, schedul and score for all Crimson Tide sports. cati 
+Event Brows a wide varieti of event by day or by month, includ performances, lectures, seminar and more from the UA Event Calendar. ete 
+Do not forget to bring thi applic to our friends, along with ani other product that we can find it here: https://market.android.com/developerpubWarrior CHANGELOG New version 1.4 : 1) Revolut of the user interfac (swipe, etc.); 2) Ad the function for decod image; 3) Ad the function for decod from URL Old version 1.3 : 1)complet support for the english, spanish and italian language; 2)new UI style; 3)ad the auto recognit of the type of the qr/barcod scanned; 4)ad the auto redirect to the content of the qr/barcod where possible; 5)minor bug fix Old version 1.2.1 : 1)Standalon scan function 2)more option to refin your search 3)possibl to encod lot of inform like contacts,phon number,emails,url,location,curr position,bookmarks,calendar events. 
+The Weather Channel' staff of 200 meteorologists, along with our patent ultraloc TruPoint(sm) technology, allow us to provid you with the weather tool you need to plan your day, week, or even the next hour. 
+Features: Athletics: View uptod news, schedules, and score for your favorit Huski sport team. 
+Add list to your address book directly, schedul events, send list via SMS/Email free of charg and refer the applic to your friends. 
+The Shopko applic allow our custom to manag their prescript includ request for prescript refills, refil by scan your label, track refil status, find nearbi store to place a refil request and setup dosag remind for help with medic adherence. 
+Featur include: Plan Stage Person countdown with day remain until babi arriv Development fact for everi week of your pregnanc Engag weekli question youl enjoy answer and share Smart checklist and help tip to help you manag all your pregnanc todo Share of photos, weekli develop and updates, todo list and more via SMS, Email and Facebook & Twitter integr GoTim Stage Contract Counter to help you time contract and know when babi on the way Onestep notif to let friend and famili know you are in labor Map tool to get you to your hospit or find the closest one nearbi Celebr Stage Custom Babi Announc to help you share babi first photo and stat Free gift for you and your babi from the maker of Enfamil ntacts,pho 
+You can set up instant invit for pickup games, social event or go out to your favorit hangout spot like your local bar. 
+More tools: Quick Event Quick Calendar event insert tool w/ nativ languag process and speech recognit capabl Bo 
+[3] Current the calendar widget is not scrollabl in it grid mode and I don't promis it ever will be becaus current launcher don't support ani extens to allow page flipping. 
+[4] In Quick Event enter the edit window will ignor the remind set and the select calendar, and use the default calendar applic set instead. 
+Text messages: both nativ and Googl Voice, includ popup and repli option Miss calls: return call directli from the app Calendar event (includ Exchang & Facebook if support by your phone) Tasks: Astrid, Googl Task Organ (lite 
+Integr with TouchDown by NitroDesk so you can view your corpor email, calendar and task in Execut Assistant. 
+v1.8.4: improv support for Android 4.0 v1.8.5: fix a problem some peopl were have with the calendar preview v1.8.5b: bug fix 
+Funambol make it easi to secur your Android pictures, videos, files, contact and calendar in an onlin account and keep them in sync across your other mobil phones, tablets, and computers. 
+Astrid: Everyone' favorit todo list make it fun to get stuff done 
+NOW WITH SIMPL LIST SHARe / ASTRID.COM SYNC / IMPROV gtask sync Astrid is the much love open sourc todo list / task manag design to help you get stuff done. 
+It featur reminders, lists, sync, a widget, task sharing, option instant notif and much more 
+Features: Sync with Astrid.com (free way share list and assign tasks) Sync with Googl Task (with new offici API) Sync with Producteev.com Super fun remind Custom Filter Tri Astrid and find out whi it was: #1 Product Applic by the Android Network Award Best of Android by Lifehacker.com Best of Android by Mashable.com Best of Android by GigaOm.com Best of Android by Engadget.com Download over 2 million time with over 20,000, 5 star rate color help 
+Work Team share action item after a meet set up offic chore think of some small thing to improv your workspac Friend coordin an event you are plan challeng each other to go run or eat healthier get help with a longstand project ASTRID IS EXTENS With the Local Addon and Local Astrid can notifi you base on your locat 
+With the PowerPack you can get 4x4, 4x3 and 4x2 widget and add task via voic (Android 2.1 and greater) and voic remind 
+PREVIOU VERSION Old version avail at: http://weloveastrid.com/old ON THE WEB AT http://astrid.com http://blog.astrid.com FOLLOW ASTRID ON TWITTER http://twitter.com/weloveastrid NOTE Astrid cannot be save to your SD card becaus thi will break the widget and remind 
+With Android Sync Manag WiFi instal on PC while Android Sync Manag Agent instal on the handset, you can easili synchronize, manag and back up mobil content between handset and PC, such as contacts, messages, calendar, photos, video and music files, etc. 
+Fix contacts/calendar synchron duplic problem 2. 
+(Subscript are purchas inapp.) NEW Calendar Synchron Synchron your WorldMat itinerari to Outlook, or your Android/Googl Calendar. lt 
+Recent changes: Car Rental Book Limousin Book More Detail Map Enhanc Home Screen Graphic Sync your WorldMat itinerari to Outlook, and Google/Android Calendar (for Gold Subscribers) 
+Navig like a pro with our interact maps, search the exhibitor directory, or creat your show schedul by choos session you want to attend and speaker you want to hear. 
+Find all the peopl you know from your email or calendar history. 
+$$Daili Brief "How doe my day look like today" "Ani meet today" "Mi reminders" "Add remind Pick up Emma from music class" Essenti Email, Text, Voic dial, Maps, Directions, Web Search "Email John Subject Hello Messag Look forward to meet with you tomorrow"" "Text Lisa Messag I will be home in an hour" "Map of Chicago downtown" "Navig to Millenium Park" "Web Search Green Bean Casserole" "Open Calculator" "Opean Alarm Clock" "Launch Phone book" Person Health Planner "How mani calori left" "Food Pizza" "Open diary" "Exercis biking" Social Updat "Facebook updat In Miami today" "Twitter updat " "Where are my friends" "Check in" Person Radio "Ani new headlines" "Current traffic" "Deal today" Take and Manag Note "Take note thi is a nice restaurant" "Note to self" "Mi notes" "Call Taxi" "Track package" "Reserv Tabl for two at Francesca's" "Book Airport parking" "Send flowers" Local Search "Find park garag near here" "Find locksmith" "Find Thai restaur near here" "Movi Nearby" "Find movi ticket for Mission Impossible" "Buy movi ticket for The Muppets" "Theater nearby" "Famili event thi weekend" GKBuddi (Ask me anything) "Who is Larri Page" "How mani day until Christmas" Travel Planner "Show airlin directory" "Find hotels" "Rent a car" "Check flight status" "Currenc converter" Cluze Car Mode Access Daili Brief, Person Radio, Search, Maps, Direct etc. 
+The advanc alarm show detail weather information, a music player, and your agenda. 
+Recent changes: Improv Ice Cream Sandwich support Improv music picker Default alarm valu can now be set Agenda bug fix Weather updat interv ad Math question bug on Honeycomb fix Bug when use default alarm fix Improv batteri indic Multipl other bug fix and improv 
+Sync contacts, calendars, notes, tasks, bookmarks, photos, videos, music, call log, SMS/Text Messag and more. 
+Task & Calendar w/widget 
+Moxier Mail introduct in market.android.com Moxier Mail is the second to none EA mail applic that you can enjoy Mail, Calendar, Contacts, Tasks, and Note in Mobil circumst with advanc and stateoftheart featur such as Category, Mailbox search, Local wipe, Data encryption, S/MIME and 57 languag in the world. 
+Max Email Bodi Truncat Size, Max Email HTML Bodi Truncat Size, Devic Password Expiration, Requir Storag Card Encryption, etc.) Effect Widget Moxier Mail Widget enabl you to find your Email, Calendar, and Task statu on the home screen in a simpli way. l 
+You can simpli and effect check new arriv Email, schedul appointment, and your ToDoList. 
+Recent changes: Default sort set is set to bring the newest content in Note list Direct Push routin chang to reduc Sync Disabl Contact Look up problem fix in IC Event display repetit fix System set is use in IC & up, instead of Proxi set Other bug report on the Market fixed. 
+Categori manag with color Advanc contact sort (first name, last name, compani name, categories) 5 calendar view (day, week, month, year, list) Multipl task style (GTD, Franklin Covey, TBYL, Outlookstyle, Palmstyle) Link contact to ca 
+Block call dure meet You can custom via filter dure which meet in your Googl calendar should the Call Blocker app block incom calls. 
+Connect, a subscriptionbas servic that deliv your contact and calendar to Android devic and support web browsers. 
+So next time you are on the move, you can quickli pull up that custom address you are head to, make chang to an exist phone number or email address, and check your meet schedul for the day from virtual anywhere. ng c 
+Connect use your phone builtin address book and calendar, you have access to contact details, your schedule, and more in the same familiar way you do today. he 
+She wake you in the morning, tell news, make jokes, send out birthday reminders, deliv a morn horoscope, keep here eye on the weather just to name a few thing And, yep, now she can speak mob 
+Make craft even easier with mobil access to your favorit Michael products, project and events. 
+Find an event by date or nearest store and save it to your calendar with ease. 
+Backup (with schedul option) to our onlin secur servers, or SD card, your Applications, Photos, Contacts, Call log, Browser Bookmarks, SM (text messages), MMS, Calendar, System Settings, Home Screen (includ shortcut positions), Alarms, Dictionary, Music Playlists, and more... 
+Set alarm and remind 
+;) Take notes, search Quora (alpha) Fix remind SHARE ON FACEBOOK, TWITTER, etc 
+Backup and restor of contact and calendar event store on your device. o 
+$$You can creat event and home screen shortcut to manag your sound profil and more: Silenc your phone at work Turn your Bluetooth on readi to connect your headset for a morn run Set your phone quiet when it' late at night and you haven't gone out Start the music player when a headset is connect Llama can also do: 4G APN Account Sync Airplan Mode Bluetooth Car mode GP (befor Android 2.3 onli or Cyanogenmod) Haptic Feedback Kill Applic (also forcekil with root privileges) Play, paus and other media button Mobil Data (befor Android 2.3 only) Reboot Run app Run shortcut Screen bright Screen lock PIN/password Set Llama variabl Speakerphon Screen on and off Screen timeout USB storag Vibrat Wallpap Wifi Wifi hotspot Wifi sleep polici Creat event base off: Airplan mode Batteri level Bluetooth devic Calendar event Car mode Charg Day of the week Current locat Headset Llama variabl Music playback (stock Android only, requir third parti develop support) Phone start up and shut down Screen on and off Time of day Wifi network NOTE: Sinc GP is not used, the locat track is limit to the number of phone mast in your area. 
+You can still use Llama with the experiment locat methods, or timebas event 
+PERMISS Read your calendar (aka 'Your person information') for ani calendar condit you set up A bug/featur of Android mean Llama also ha to have the write calendar permission, but it doesn't actual write anyth Your account so it can run an account sync if your event say so Write to your SD card to import/export your area, event and profiles, and to write error log Callstat and read contact to let you choos which of your contact can still ring even when silent Llama DOE NOT have internet permission. 
